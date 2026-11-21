@@ -10,14 +10,14 @@ The federation is a shared home for independent open-source projects that build 
 
 | | |
 |---|---|
-| [agent-governance-vocabulary](https://github.com/aeoess/agent-governance-vocabulary) | Shared terms for agent governance, and a crosswalk for each project that maps its own records onto them. Moves into this organization on 21 November 2026. |
-| [Crosswalk matrix](https://aeoess.github.io/agent-governance-vocabulary/) | Every crosswalk against every term, rebuilt on each change. |
+| [agent-governance-vocabulary](https://github.com/NOSAI-Federation/agent-governance-vocabulary) | Shared terms for agent governance, and a crosswalk for each project that maps its own records onto them. |
+| [Crosswalk matrix](https://nosai-federation.github.io/agent-governance-vocabulary/) | Every crosswalk against every term, rebuilt on each change. |
 
 ### How decisions are made
 
-- [Shared principles](https://github.com/aeoess/agent-governance-vocabulary/blob/main/PRINCIPLES.md)
-- [How shared files change](https://github.com/aeoess/agent-governance-vocabulary/blob/main/SHARED-DECISIONS.md)
-- [The move to this organization](https://github.com/aeoess/agent-governance-vocabulary/issues/244), under the plan in [#247](https://github.com/aeoess/agent-governance-vocabulary/pull/247)
+- [Shared principles](https://github.com/NOSAI-Federation/agent-governance-vocabulary/blob/main/PRINCIPLES.md)
+- [How shared files change](https://github.com/NOSAI-Federation/agent-governance-vocabulary/blob/main/SHARED-DECISIONS.md)
+- [The move to this organization on 21 November 2026](https://github.com/NOSAI-Federation/agent-governance-vocabulary/issues/244), under the plan in [#247](https://github.com/NOSAI-Federation/agent-governance-vocabulary/pull/247)
 
 ### Taking part
 
